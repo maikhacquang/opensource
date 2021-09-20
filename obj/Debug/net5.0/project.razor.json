@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\xampp\\htdocs\\netcore\\netcore.csproj",
+  "FilePath": "c:\\xampp\\htdocs\\dotnet\\netcore.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,53 +15619,53 @@
   "RootNamespace": "netcore",
   "Documents": [
     {
-      "FilePath": "c:\\xampp\\htdocs\\netcore\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\xampp\\htdocs\\netcore\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\xampp\\htdocs\\netcore\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\xampp\\htdocs\\netcore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\xampp\\htdocs\\netcore\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\xampp\\htdocs\\dotnet\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\xampp\\htdocs\\netcore\\Views\\helloword\\welcome.cshtml",
-      "TargetPath": "Views\\helloword\\welcome.cshtml",
+      "FilePath": "c:\\xampp\\htdocs\\dotnet\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\xampp\\htdocs\\netcore\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\xampp\\htdocs\\dotnet\\Views\\helloword\\index.cshtml",
+      "TargetPath": "Views\\helloword\\index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\xampp\\htdocs\\netcore\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\xampp\\htdocs\\netcore\\Views\\Shared\\_layoutNew.cshtml",
+      "FilePath": "c:\\xampp\\htdocs\\dotnet\\Views\\Shared\\_layoutNew.cshtml",
       "TargetPath": "Views\\Shared\\_layoutNew.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\xampp\\htdocs\\netcore\\Views\\helloword\\index.cshtml",
-      "TargetPath": "Views\\helloword\\index.cshtml",
+      "FilePath": "c:\\xampp\\htdocs\\dotnet\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\xampp\\htdocs\\dotnet\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\xampp\\htdocs\\dotnet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\xampp\\htdocs\\dotnet\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\xampp\\htdocs\\dotnet\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\xampp\\htdocs\\dotnet\\Views\\helloword\\welcome.cshtml",
+      "TargetPath": "Views\\helloword\\welcome.cshtml",
       "FileKind": "mvc"
     }
   ],
